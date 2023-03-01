@@ -1,1 +1,4 @@
-
+Information of Project : 
+   A calculator is a device or tool that performs mathematical calculations. It can be a physical device or a software application that runs on a computer or a mobile device.Calculators are used for a variety of purposes, including basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as more complex mathematical operations such as exponentiation, logarithms, and trigonometric functions.
+In addition to basic functionality, calculators can have advanced features such as the ability to store and recall values, perform conversions between different units of measurement, and solve complex equations. With the advent of mobile devices, calculator apps have become a ubiquitous feature on smartphones and tablets, providing users with a convenient tool for performing calculations on the go.
+         Overall, calculators are an essential tool for many fields, including science, engineering, finance, and education, and have played a significant role in shaping the way we approach and solve mathematical problems.
